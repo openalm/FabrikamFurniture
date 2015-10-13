@@ -35,7 +35,7 @@
 		<div>
 			<div class="body">
 				<div id="adbox">
-					<img src="images/chair.jpg" alt="Img"> <span class="info"> Whicker Chair <em>$250.00</em> <a href="index.php" class="btn1">View Details</a> </span>
+					<img src="images/chairs.jpg" alt="Img"> <span class="info"> Whicker Chair <em>$250.00</em> <a href="index.php" class="btn1">View Details</a> </span>
 					<div class="details">
 						<h1>High Quality<br> Wooden Furnitures<br> That's Built to Last.</h1>
 						<p>
